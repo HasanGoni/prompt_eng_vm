@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "prompt_eng_vm"
+  site-url: "https://HasanGoni.github.io/prompt_eng_vm"
+  description: "Prompt Engineering in Vision Model Course from deeplearning.ai"
+  repo-branch: main
+  repo-url: "https://github.com/HasanGoni/prompt_eng_vm"
